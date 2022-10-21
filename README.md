@@ -1,3 +1,3 @@
-# Addon Name
+# Power Auras
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for Power Auras. Modified for Ascension.gg. 
